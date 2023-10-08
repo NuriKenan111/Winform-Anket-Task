@@ -1,0 +1,16 @@
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\bin\Debug\net6.0-windows\SurveyTask.exe
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\bin\Debug\net6.0-windows\SurveyTask.deps.json
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\bin\Debug\net6.0-windows\SurveyTask.runtimeconfig.json
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\bin\Debug\net6.0-windows\SurveyTask.dll
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\bin\Debug\net6.0-windows\SurveyTask.pdb
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\obj\Debug\net6.0-windows\SurveyTask.Form1.resources
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\obj\Debug\net6.0-windows\SurveyTask.csproj.GenerateResource.cache
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\obj\Debug\net6.0-windows\SurveyTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\obj\Debug\net6.0-windows\SurveyTask.AssemblyInfoInputs.cache
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\obj\Debug\net6.0-windows\SurveyTask.AssemblyInfo.cs
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\obj\Debug\net6.0-windows\SurveyTask.csproj.CoreCompileInputs.cache
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\obj\Debug\net6.0-windows\SurveyTask.dll
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\obj\Debug\net6.0-windows\refint\SurveyTask.dll
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\obj\Debug\net6.0-windows\SurveyTask.pdb
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\obj\Debug\net6.0-windows\SurveyTask.genruntimeconfig.cache
+C:\Users\Nuri\Desktop\SurveyTask\SurveyTask\obj\Debug\net6.0-windows\ref\SurveyTask.dll

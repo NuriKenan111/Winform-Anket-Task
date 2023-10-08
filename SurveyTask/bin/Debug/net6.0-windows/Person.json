@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Kenan",
+    "Surname": "Nuri",
+    "Country": "Azerbaijan",
+    "City": "Sabirabad",
+    "Datetime": "2005-11-21T00:00:00",
+    "Email": "kenan@gmail.com",
+    "MilitaryStatus": true,
+    "Gender": "Male"
+  },
+  {
+    "Name": "Nigar",
+    "Surname": "Memmedli",
+    "Country": "Azerbaijan",
+    "City": "Baku",
+    "Datetime": "2004-09-12T00:00:00",
+    "Email": "nigar@gmail.com",
+    "MilitaryStatus": false,
+    "Gender": "Female"
+  },
+  {
+    "Name": "Ismayil",
+    "Surname": "Rehimov",
+    "Country": "Azerbaijan",
+    "City": "Baku",
+    "Datetime": "2005-10-12T00:00:00",
+    "Email": "ismayil@gmail.com",
+    "MilitaryStatus": false,
+    "Gender": "Male"
+  }
+]
